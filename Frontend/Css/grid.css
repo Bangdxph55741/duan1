@@ -46,7 +46,9 @@ body {
   max-width: 1332px;
   margin: 0 auto;
 }
-
+.justify-content {
+  justify-content: space-between;
+}
 .row {
   display: flex;
 }
